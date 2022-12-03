@@ -78,7 +78,7 @@ border-radius:5px;
     width:30px;
     height:30px;
 }
-.counter-btn{
+.counter-btn:hover{
   
     background:#f3f3f3;
     border:1px solid grey;
@@ -159,7 +159,7 @@ margin:auto;
     margin-bottom:20px;
     font-family: ui-serif;
 }
-.p:hover{
+.p{
     border:1px solid black;
     border-radius:5px;
     background-color: whitesmoke;
