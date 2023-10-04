@@ -1,5 +1,5 @@
 # Ecommerce_Website_Project
-** I have created a simple web development project using HTML, CSS, and JavaScript for the frontend, while I've utilized Node.js (with React.js) for the server-side and Google Firebase for the database. **
+**I have created a simple web development project using HTML, CSS, and JavaScript for the frontend, while I've utilized Node.js (with React.js) for the server-side and Google Firebase for the database.**
 # Home Page
 ![image](https://github.com/RV0225/Ecommerce_Website_Project/assets/83663322/e7cd89bc-4872-4af5-9ae8-d861e3c41e68)
 ![image](https://github.com/RV0225/Ecommerce_Website_Project/assets/83663322/3f97e794-1f65-4032-ac0a-59b4e862d330)
